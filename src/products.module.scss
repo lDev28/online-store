@@ -1,0 +1,14 @@
+.Products {
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.Product__cart {
+	width: 25%;
+	padding: 10px;
+	margin: 10px;
+	border: 1px solid #ccc;
+	border-radius: 10px;
+}
